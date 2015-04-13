@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryHeapAllocation", "Mem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskFromResultSampe", "TaskFromResultSampe\TaskFromResultSampe.csproj", "{9D90F04A-CD8F-4401-8DA5-3E325B4BD83A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShouldLieSample", "ShouldLieSample\ShouldLieSample.csproj", "{DBB06CE8-5884-4AB5-A6A4-D65C520DBD48}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShouldNotLieSample", "ShouldNotLieSample\ShouldNotLieSample.csproj", "{DBB06CE8-5884-4AB5-A6A4-D65C520DBD48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -7,8 +7,8 @@
     <ProjectGuid>{DBB06CE8-5884-4AB5-A6A4-D65C520DBD48}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ShouldLieSample</RootNamespace>
-    <AssemblyName>ShouldLieSample</AssemblyName>
+    <RootNamespace>ShouldNotLieSample</RootNamespace>
+    <AssemblyName>ShouldNotLieSample</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

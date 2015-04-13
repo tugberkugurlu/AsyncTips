@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace ShouldLieSample
+namespace ShouldNotLieSample
 {
     public class GiantCpuStuffConsumer
     {
