@@ -64,9 +64,9 @@ namespace TaskFromResultSampe
     {
         private readonly IEnumerable<File> _files = new List<File> { /* ... */ };
 
-        public Task<IEnumerable<File>> GetFilesAsync()
+        public async Task<IEnumerable<File>> GetFilesAsync()
         {
-            return Task.FromResult(_files);
+            return await Task.FromResult(_files);
         }
     }
 }
